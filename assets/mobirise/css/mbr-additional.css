@@ -501,7 +501,7 @@ h6,
   font-size: 24px;
 }
 #msg-box5-9 H3 {
-  color: #000000;
+  color: #0e324c;
 }
 #content5-r .mbr-section-title,
 #content5-r p {
@@ -523,6 +523,7 @@ h6,
 }
 #content5-v .mbr-section-title {
   color: #292929;
+  text-align: center;
 }
 #content5-v P {
   color: #000000;
@@ -540,7 +541,7 @@ h6,
 }
 #msg-box3-10 .mbr-section-title {
   text-align: right;
-  color: #292929;
+  color: #0e324c;
 }
 #msg-box3-10 .lead P {
   font-size: 24px;
@@ -553,10 +554,10 @@ h6,
   color: #fff;
 }
 #content5-1d .mbr-section-title {
-  color: #292929;
+  color: #c1c1c1;
 }
 #content5-1d P {
-  color: #292929;
+  color: #c1c1c1;
   font-size: 24px;
   font-family: 'Ubuntu', sans-serif;
 }
