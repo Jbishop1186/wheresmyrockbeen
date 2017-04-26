@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Instructions",
+    "currentPage": "index.html",
     "name": "Traveling Rock Project",
     "theme": {
       "name": "mobirise3",
@@ -49,7 +49,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#292929"
@@ -60,10 +60,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -151,7 +151,8 @@
               "font-size": "18px"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "72px"
             },
             ".mbr-section-lead": {
               "font-family": "'Ubuntu', sans-serif",
@@ -198,8 +199,8 @@
           },
           "_anchor": "msg-box5-9",
           "_params": {
-            "imageSize": "36",
-            "paddingTop": "2",
+            "imageSize": "43",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -267,8 +268,8 @@
           "_name": "content5",
           "_anchor": "content5-r",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -315,11 +316,11 @@
           "_name": "content5",
           "_anchor": "content5-v",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/colorpong-landscapes-10-converted-2000x1266.jpg",
             "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
@@ -327,7 +328,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
@@ -362,10 +363,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/colorpong-landscapes-10-converted-2000x1266.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -402,8 +403,8 @@
           "_name": "content5",
           "_anchor": "content5-1d",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -440,8 +441,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-x",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
@@ -469,8 +470,8 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-3",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -699,7 +700,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#292929"
@@ -710,10 +711,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -758,7 +759,7 @@
           "_anchor": "menu-k",
           "_params": {
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -888,7 +889,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#292929"
@@ -1094,7 +1095,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#292929"
@@ -1105,10 +1106,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1150,7 +1151,7 @@
           "_anchor": "menu-k",
           "_params": {
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",

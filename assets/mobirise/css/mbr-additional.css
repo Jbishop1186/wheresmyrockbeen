@@ -423,7 +423,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 22px;
 }
 #menu-0 .navbar-toggler {
   color: #292929;
@@ -434,11 +434,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.083rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -492,6 +492,7 @@ h6,
 }
 #header1-1 .mbr-section-title {
   color: #000000;
+  font-size: 72px;
 }
 #header1-1 .mbr-section-lead {
   font-family: 'Ubuntu', sans-serif;
@@ -600,7 +601,7 @@ h6,
 }
 #menu-k .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 22px;
 }
 #menu-k .navbar-toggler {
   color: #292929;
@@ -611,11 +612,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-k .link {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.083rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
@@ -683,7 +684,7 @@ h6,
 }
 #menu-17 .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 22px;
 }
 #menu-17 .navbar-toggler {
   color: #292929;
@@ -757,7 +758,7 @@ h6,
 }
 #menu-k .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 22px;
 }
 #menu-k .navbar-toggler {
   color: #292929;
@@ -768,11 +769,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-k .link {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.083rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
