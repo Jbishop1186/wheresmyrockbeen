@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Overview",
     "name": "Traveling Rock Project",
     "theme": {
       "name": "mobirise3",
@@ -141,7 +141,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Where's My Rock Been?</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -502,8 +502,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/received-2000x2666-800x1066.png",
-                "image": "@PROJECT_PATH@/assets/images/received-2000x2666.png",
+                "thumb": "@PROJECT_PATH@/assets/images/love-rock-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/love-rock-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/never-give-up-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/never-give-up-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -608,7 +618,7 @@
               "color": "#fff"
             },
             ".lead H4": {
-              "color": "#efefef"
+              "color": "#c1c1c1"
             },
             ".mbr-section-title": {
               "color": "#292929"
@@ -638,8 +648,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER<br><br>",
-          "text": "<h4><span style=\"font-weight: normal;\">The Idea behind this traveling rock project is to inspire some creativity by decorating/painting a rock and to brighten up someone’s day one rock at a time and to pass it on.  Doing something as simple as designing and painting a rock, our creative part of our brain is activated.  That is a nice escape from the problems and stresses of day to day live.  When you are out looking for a rock or stone, that’s just it, you are out in nature and in the fresh air. Also when you mail out the rock that you had designed and the rock you have received, it is nice to get something in the mail.  So how many people can be connected? I would like to map out where the rocks travel to and see how far each one could go.</span></h4><p><br></p><p><br></p>",
+          "title": "Creative Brief<br><br>",
+          "text": "<h4><span style=\"font-weight: normal;\">The Idea behind this traveling rock project is to</span> inspire <span style=\"font-weight: normal;\">some </span>creativity<span style=\"font-weight: normal;\"> by decorating/painting a rock and to brighten up someone’s day one rock at a time and to pass it on.  Doing something as simple as designing and painting a rock, our creative part of our brain is activated.  That is a nice escape from the problems and stresses of day to day live.  When you are out looking for a rock or stone, that’s just it, you are out in nature and in the fresh air. Also when you mail out the rock that you had designed and the rock you have received, it is nice to get something in the mail.  So how many people can be connected? I would like to map out where the rocks travel to and see how far each one could go.</span></h4><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -801,7 +811,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Where's My Rock Been?</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -987,7 +997,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Where's My Rock Been?</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1193,7 +1203,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Where's My Rock Been?</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-1f\" aria-expanded=\"false\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructions\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Forum (comingsoon)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
