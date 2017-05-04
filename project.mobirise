@@ -181,7 +181,7 @@
           },
           "title": "Traveling Rock Project",
           "text": "<b>#wheresmyrockbeen</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Guidelines</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#form2-4\" data-toolbar=\"-mbrBtnMove\">Join for Free</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Guidelines</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">Join for Free</a>"
         },
         {
           "_tags": [
